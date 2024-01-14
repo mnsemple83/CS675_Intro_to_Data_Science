@@ -1,5 +1,5 @@
 # CS675_Intro_to_Data_Science
-Coursework from the CS675 Intro to Data Science class I had taken at Pace University.
+<p>This is my repository for the projects I had completed for the class "CS675 Intro to Data Science" at Pace University. It is an introductory course into Data Science, where I learned about several methods and processes that are used when working on Data Science projects, including Exploratory Data Analysis, model building, and forecasting. These methods and processes were applied to three projects where I had to apply a specific technique to a dataset of choice to solve a problem.</p>
 
 ## Coursework
 <div>
