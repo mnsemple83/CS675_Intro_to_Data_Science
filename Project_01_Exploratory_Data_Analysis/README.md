@@ -8,7 +8,7 @@
 
 ## Notebook
 <p>The link to the jupyter notebook containing the project code and visualizations.</p>
-<a href="https://github.com/mnsemple83/CS675_Intro_to_Data_Science/blob/main/Project_01_Exploratory_Data_Analysis/Mikhel_Semple_CS675_Project_1_EDA.ipynb">Prokect 1 - Exploratory Data Analysis</a>
+<a href="https://github.com/mnsemple83/CS675_Intro_to_Data_Science/blob/main/Project_01_Exploratory_Data_Analysis/Mikhel_Semple_CS675_Project_1_EDA.ipynb">Project 1 - Exploratory Data Analysis</a>
 
 ## Code
 <p>Here is the python file containing the code used in the project.</p>
