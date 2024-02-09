@@ -6,9 +6,9 @@
 <a href="https://github.com/mnsemple83/CS675_Intro_to_Data_Science/blob/main/Project_02_ML_Modeling/airbnb_open_data_sampled.csv">Airbnb Listings - Sampled</a>
 
 ## Notebook
-<p>The link to the jupyter notebook for this project.</p>
+<p>The link to the jupyter notebook for this project:</p>
 <a href="https://github.com/mnsemple83/CS675_Intro_to_Data_Science/tree/main/Project_02_ML_Modeling">Project 2 - ML Modeling</a>
 
 ## Code
-<p>The python code for this project.</p>
+<p>The python code for this project:</p>
 <a href="https://github.com/mnsemple83/CS675_Intro_to_Data_Science/blob/main/Project_02_ML_Modeling/cs675_project_02_code">Project 2 code</a>
