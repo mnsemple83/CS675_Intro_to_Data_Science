@@ -7,9 +7,9 @@
 <a href="https://github.com/mnsemple83/CS675_Intro_to_Data_Science/blob/main/Project_01_Exploratory_Data_Analysis/house_prices_sampled.csv">House Prices - Sampled</a>
 
 ## Notebook
-<p>The link to the jupyter notebook containing the project code and visuals.</p>
+<p>The link to the jupyter notebook containing the project code and visuals:</p>
 <a href="https://github.com/mnsemple83/CS675_Intro_to_Data_Science/blob/main/Project_01_Exploratory_Data_Analysis/Mikhel_Semple_CS675_Project_1_EDA.ipynb">Project 1 - Exploratory Data Analysis</a>
 
 ## Code
-<p>Here is the python file containing the code for the project.</p>
+<p>Here is the python file containing the code for the project:</p>
 <a href="https://github.com/mnsemple83/CS675_Intro_to_Data_Science/blob/main/Project_01_Exploratory_Data_Analysis/cs675_project_01_code">Project 1 code</a>
